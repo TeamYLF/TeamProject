@@ -1,0 +1,14 @@
+I: The problem statement
+After completing the entire project, we encountered many problems on our way. Next, we will cite a few of the most prominent issues:
+(1) database construction
+(2) the choice of project framework
+(3) interface optimization problem
+
+
+II:Second, the problem analysis
+(1) database construction
+Due to project reasons, the required data is more. The most basic table has the user table (user), product table (product), bidding (bid). There are a lot of data in the table, at the same time there is some correlation between the data in the table. If you follow the original way to create a table to create a table, it is very heavy and cumbersome.
+(2) the choice of project framework
+If you do not have the framework of the auxiliary, only a simple JSP + servlet + JavaBean to create the project, code post-maintenance and flexibility are very low, and the emergence of a mistake, it is extremely inconvenient to solve, really Knock code for an hour, check loopholes lament all day.
+(3) interface optimization problem
+Even if the back end of the operation and then sophisticated, no front-end display, everything is hard to be found. In the interface optimization, we encountered a lot of problems. For example, with the color, the entire page layout, page font size and so on.
