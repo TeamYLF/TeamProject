@@ -12,3 +12,13 @@ Due to project reasons, the required data is more. The most basic table has the 
 If you do not have the framework of the auxiliary, only a simple JSP + servlet + JavaBean to create the project, code post-maintenance and flexibility are very low, and the emergence of a mistake, it is extremely inconvenient to solve, really Knock code for an hour, check loopholes lament all day.
 (3) interface optimization problem
 Even if the back end of the operation and then sophisticated, no front-end display, everything is hard to be found. In the interface optimization, we encountered a lot of problems. For example, with the color, the entire page layout, page font size and so on.
+
+
+III£ºModel of the system's functional requirements
+
+ATM system is called ATM system, which can automatically deal with all kinds of bank depositors' business, such as withdrawal, deposit, transfer, inquiry, change password and so on.
+Develop an ATM software system that gives customers direct access to bank computers to complete their transactions without the intervention of bank staff.
+The problem of ATM is described as follows:
+1. ATM handles various operations of bank depositors and communicates with branch computers. 2. The branches' computers save their own accounts and are responsible for entering account and transactional data. 3. branch computer and appropriation branch office checkout
+4. ATM and user interface accept cash cards, communicate with branch computers, complete transactions, pay cash, hit
+Printed bills. 5. The system needs record keeping and safety measures.
